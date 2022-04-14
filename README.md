@@ -1,3 +1,3 @@
-# Trash-Repo
+# Module 1
 
-UFE - Python Game - Assingment #1
+UFE - Python Game
